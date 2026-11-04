@@ -1,0 +1,18 @@
+{
+  "name": "meu-mcp-server",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "MCP server do projeto Listagem de perfis de alunos da PDA (aula 7). Uma tool: buscar_alunos_por_habilidade.",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/server": "^2.1.0",
+    "zod": "^4.2.0"
+  }
+}

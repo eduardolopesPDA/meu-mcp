@@ -1,0 +1,10 @@
+[
+  { "id": 1, "nome": "Ana Souza", "email": "ana.souza@example.com", "telefone": "(11) 90000-0001", "cidade": "São Paulo", "habilidades": ["React", "Node.js", "TypeScript"], "publico": true, "bio": "Front-end, gosto de acessibilidade." },
+  { "id": 2, "nome": "Bruno Lima", "email": "bruno.lima@example.com", "telefone": "(21) 90000-0002", "cidade": "Rio de Janeiro", "habilidades": ["Python", "SQL"], "publico": true, "bio": "Dados e automação." },
+  { "id": 3, "nome": "Carla Nunes", "email": "carla.nunes@example.com", "telefone": "(31) 90000-0003", "cidade": "Belo Horizonte", "habilidades": ["react", "CSS", "Figma"], "publico": true, "bio": "UI e design system." },
+  { "id": 4, "nome": "Diego Alves", "email": "diego.alves@example.com", "telefone": "(41) 90000-0004", "cidade": "Curitiba", "habilidades": ["Node.js", "SQL", "Docker"], "publico": false, "bio": "Back-end. Ainda não quero aparecer na vitrine." },
+  { "id": 5, "nome": "Elisa Rocha", "email": "elisa.rocha@example.com", "telefone": "(51) 90000-0005", "cidade": "Porto Alegre", "habilidades": ["C#", ".NET", "SQL"], "publico": true, "bio": "Sistemas corporativos." },
+  { "id": 6, "nome": "Felipe Costa", "email": "felipe.costa@example.com", "telefone": "(71) 90000-0006", "cidade": "Salvador", "habilidades": ["Python", "Django", "React"], "publico": true, "bio": "Full stack." },
+  { "id": 7, "nome": "Gabriela Melo", "email": "gabriela.melo@example.com", "telefone": "(81) 90000-0007", "cidade": "Recife", "habilidades": ["C++", "Python"], "publico": true, "bio": "Maratona de programação." },
+  { "id": 8, "nome": "Henrique Dias", "email": "henrique.dias@example.com", "telefone": "(85) 90000-0008", "cidade": "Fortaleza", "habilidades": ["Vue", "Node.js"], "publico": true, "bio": "Front e back." }
+]
